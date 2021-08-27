@@ -28,5 +28,7 @@ Here's the 8 steps from Hands-On ML book that will be in most project README's
 ## Datasets
 
 [Kaggle Datasets](https://www.kaggle.com/datasets)
+
 [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 [Awesome NLP #Datasets](https://github.com/keon/awesome-nlp#datasets)
