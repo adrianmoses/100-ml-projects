@@ -23,3 +23,10 @@ Here's the 8 steps from Hands-On ML book that will be in most project README's
 6. Fine-tune your models and combine them into a greate solution.
 7. Present your solution 
 8. Launch, monitor, and maintain your system.
+
+
+## Datasets
+
+[Kaggle Datasets](https://www.kaggle.com/datasets)
+[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
+[Awesome NLP #Datasets](https://github.com/keon/awesome-nlp#datasets)
