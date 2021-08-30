@@ -1,0 +1,4 @@
+outs:
+- md5: 7ceb257a2888e6bf49a82d633e79efe2
+  size: 15429308
+  path: covid-data.csv

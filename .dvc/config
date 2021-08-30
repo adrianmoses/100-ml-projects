@@ -1,0 +1,4 @@
+[core]
+    remote = thrustds
+['remote "thrustds"']
+    url = gs://thrust-datasets/ml-projects
