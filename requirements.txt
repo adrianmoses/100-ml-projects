@@ -1,0 +1,7 @@
+numpy
+seaborn
+gradio
+scikit-learn
+pandas
+notebook
+jupyterthemes
