@@ -5,4 +5,11 @@ scikit-learn
 pandas
 notebook
 jupyterthemes
-tensorflow-cpu
+tensorflow
+streamlit
+torch
+transformers
+transformers[sentencepiece]
+spacy
+pycld2
+langdetect
